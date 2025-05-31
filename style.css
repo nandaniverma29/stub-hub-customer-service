@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    line-height: 1.6;
+  }
+  
+  .faq p {
+    margin-bottom: 0.8rem;
+  }
+  
+  .chat-box h4 {
+    font-size: 1.2rem;
+  }
+  
+  .chat-box button {
+    float: right;
+    font-weight: bold;
+  }
+  
